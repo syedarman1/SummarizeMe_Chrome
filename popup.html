@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SummarizeMe</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="dark-mode-toggle">
+    <label class="switch">
+      <input type="checkbox" id="toggleDarkMode">
+      <span class="slider"></span>
+    </label>
+    <span id="modeLabel">Light Mode</span>
+  </div>
+
+  <h1>SummarizeMe</h1>
+  <textarea id="inputText" placeholder="Enter text or select text on a webpage..."></textarea>
+  <button id="summarizeBtn">Summarize</button>
+  <button id="readAloudBtn" disabled>Read Aloud</button>
+  <p id="summaryResult"></p>
+
+  <script src="popup.js"></script>
+</body>
+</html>

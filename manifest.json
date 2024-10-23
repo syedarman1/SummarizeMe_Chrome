@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "SummarizeMe",
+  "description": "AI-powered tool to summarize text or webpage content with text-to-speech support.",
+  "version": "1.0",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
