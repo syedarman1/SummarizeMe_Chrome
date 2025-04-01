@@ -18,7 +18,7 @@ The extension uses the following permissions:
 ## Installation
 
 ### From the Chrome Web Store
-1. Navigate to the [Chrome Web Store](https://chrome.google.com/webstore) and search for **SummarizeMe**.
+1. Navigate to the [Chrome Web Store](https://chromewebstore.google.com/detail/summarizeme/hokffkdbohcjjheljojgpdhgfligicme)
 2. Click "Add to Chrome" and follow the on-screen prompts to install the extension.
 
 ### Manual Installation
